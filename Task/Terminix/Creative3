@@ -1,0 +1,46 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 3</title>
+    <style>
+        
+        .wrapper{
+            background:linear-gradient(90deg, rgb(141, 100, 129), rgb(204, 179, 179));
+        border:thick solid lightblue;
+        width: 33rem;
+        height: 40rem;
+        margin-left: 25rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <p style="color: white; font-size:25px; text-align:center">Pest-Proof Your Home This Spring</p>
+        <b><p style="text-align: center; font-size:30px;">Save $50*</p></b>
+        <p style="text-align:center; font-size:18px">on a Terminix® Pest Control Plan**</p>
+        <p style="text-align: center; font-size:18px; margin-left:8px; margin-right: 8px;">Prevention is one of your best pest defenses, and taking steps now to keep the bugs away as spring arrives will help keep you and your family safe.</p>
+        <button style="width: 130px; height: 40px; margin-left: 12rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">New Spring Offers</button>
+
+        <img src="6.png" alt="" style="float:right; margin-top:3rem">
+        <p style="margin-left: 15px; margin-top:2rem; font-size:18px">Our comprehensive Pest Control Plan includes quarterly treatments that are adapted to address seasonal pest activity in your area.</p>
+        <b><p style="margin-left:1rem; font-size:17px">You deserve a pest-free home.</p></b>
+        <button style="width: 130px; height: 40px; margin-left: -9rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">Explore Plans</button>
+        <p style="float: left; margin-top: 4rem; padding: 1rem;">Ready to start nixing?</p>
+        <p style="float: right; margin-top: 4rem; padding: 1rem;">Call to get a free estimate 1.877.860.1024  </p>
+
+        <p style="width:94%; margin-left: -0.3rem; padding: 1rem; border:thick solid lightblue; background: white; margin-top:-1rem; float: left; padding-left: 1rem;" >
+            *Offer valid only at participating locations. Single-family dwelling units only. Requires purchase of a new annual residential pest control plan. Offer may not be combined
+             with other offers, bundled service offerings or other discounts. Offer not valid for Cockroach Treatment Plan. Additional limitations apply. Not valid for existing pest control customers<br>
+            <br> ** Standard Covered Pests: cockroaches, mice, rats, silverfish, “house” ants (excluding carpenter ants, fire ants, pharaoh ants and tawny crazy ants), clothes moths, spiders
+              (excluding black widow and brown recluse spiders), scorpions, centipedes, millipedes, earwigs, house crickets and paper wasps. Other pests not specified as Standard Covered Pests may be covered
+               for an additional charge or under other plans.
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 3</title>
+    <style>
+        .wrapper{
+        background: lightgray;
+        width: 34rem;
+        height: 35rem;
+        margin-left: 25rem;
+        margin-top: 20px;
+        border-radius: 20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <section style="border-radius:20px;   background:linear-gradient(90deg, #6d5d65, #b9aec5)">
+        <p style="text-align: center; font-size: 30px; padding-top: 40px;">Save All Your Repair Cost</p>
+        <br>
+        </section>
+        <p style=" font-size:18px;  margin-left: 12rem; margin-right: 3rem; ">AHS plans cover parts of up to 23 appliances and systems.
+        Customize coverage by including optional add-ons and adjusting monthly premiums.</p>
+       
+        <button style="width: 130px; height: 40px; float:left; margin-left: 2rem; margin-top: -70px; border-radius: 50px; border:none; background-color: lavender; box-shadow: 3px 4px;  ">Summer Sale</button>
+    <br>
+
+    <img src="5.png" style="float:right; margin-left: 5rem; margin-right: 2rem;  width: 170px; height: 144px;" alt="">
+    <p style="float: left; margin-left: 22.5rem;"><b>30-Days Guarantee</b></p>
+    
+    <p style="font-size: 18px; margin-left: 40px; margin-top: 3.2rem; ">If you have an issue with your completed repair within 30 days of service, weʼll send a contractor back out for free.</p>
+    <section style="border-radius: 50%; background:rgb(131, 123, 123); width: 100px; height: 100px; float: left; margin-left: 1rem;"></section>
+    <section style="border-radius: 50%; background:rgb(131, 123, 123); width: 30px; height: 30px;   float: left; "></section>
+    <button style="width: 130px; height: 40px; margin-left:3rem; margin-top: -20px; border-radius: 50px; border:none; background-color: lavender; box-shadow: 3px 4px;  ">Top-Rated Plans</button>
+    </div>
+</body>
+</html>

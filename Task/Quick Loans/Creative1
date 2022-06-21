@@ -1,0 +1,36 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 1</title>
+    <style>
+        .wrapper{
+        background:lightgreen    ;
+        border:thick solid darkgreen;
+        width: 33rem;
+        height: 37.5rem;
+        margin-left: 25rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    
+    <div class="wrapper">
+        <h2 style="text-align: center; padding: 1rem;">Exclusive Access To Low-Interest Packages</h2>
+        <p style="font-size:18px; padding-left:2rem; padding-right: 1rem;">Shortening your term is a smart way to pay off your home quickly and cheaply. A shorter term usually has a lower 
+        interest rate, and we provide exactly that. </p>
+        <br><br>
+        <b><p style="font-size: 20px; text-align:center">Save For The Future</p></b>
+        <img src="1.png" alt="" style="margin-left:13.6rem" >
+        <p style="font-size: 18px; text-align: center; margin-left:1rem; margin-right: 1rem;">From building an emergency fund to saving for a down payment for a new home, we've got services to help you meet your goals.</p>
+        <br><br>
+        <p style="float: left; margin-top: 6rem; margin-left: 5px;">Have any questions?</p>
+        <p style="float:right; margin-top: 6rem; margin-right: 5px;">Call  (800) 251-9080</p>
+   </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 2</title>
+    <style>
+        .wrapper{
+        background: whitesmoke;
+        border:thick solid;
+        width: 33rem;
+        height: 40rem;
+        margin-left: 25rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="wrapper" >
+        <section style="  position:relative; background:linear-gradient(90deg, #473c42, #b9aec5)">
+        <u ><p style="text-align: center; font-size: 30px;">Customizable Home Warranty</p></u>
+        <p style="text-align: center; padding: 10px; font-size:18px">American Home Shield offers three tiers of coverage to customize 
+        your plan. Protect your budget and make breakdowns less stressful with Home Appliances coverage from American Home Shield. </p>
+        
+        <button style="width: 130px; height: 40px; margin-left: 12rem; border-radius: 50px; border:none; background-color: lavender; box-shadow: 3px 4px; ">New Offers</button>
+        <br><br>
+
+        <span style="font-size:300%; color:yellow; margin-left: 150px;">&starf;</span>
+        <span style="font-size:300%; color:yellow;">&starf;</span>
+        <span style="font-size:300%; color:yellow;">&starf;</span>
+        <span style="font-size:300%; color:yellow;">&starf;</span>
+        <span style="font-size:300%; color:yellow;">&starf;</span>
+        <p style="text-align: center; font-size: 18px;"><b>No Maintenance Records Needed</b></p>
+
+        <img src="2.png" alt="" style="width:150px; height:150px; margin-left: 15px;">
+        <img src="3.png" alt="" style="width: 130px; height:130px; margin-left: 30px;">
+        <img src="4.png" alt="" style="width: 140px; height:140px; margin-left: 30px;">
+        <br><br>
+        <button style="width: 130px; height: 40px; margin-left: 12rem; border-radius: 50px; border:none; background-color: lavender; box-shadow: 3px 4px; ">Summer Sales</button><br><br>
+    </section>
+        </div>
+</body>
+</html>

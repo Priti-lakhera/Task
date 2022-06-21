@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 2</title>
+    <style>
+        .wrapper{
+        background:lavender;
+        border:thick solid lightblue;
+        width: 33rem;
+        height: 45rem;
+        margin-left: 25rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    
+    <div class="wrapper">
+        <section style=" background:linear-gradient(160deg, #44dce7, #b9aec5)">
+        <h2 style="text-align: center; margin-top:-1px; padding: 15px;">Industry Leader In Pest Control: Summer SALE</h2>
+        <p style="font-size: 18px; padding-left:1.5rem; margin-right: 1rem;">Having a professional pest control service can remediate your pest problem. Partner with the top brand in the pest control industry. Special coupon code included. </p>
+        <br>
+        <button style="width: 170px; height: 40px; margin-left: 11rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px;">Avail Exclusive Offers</button>
+        <br><br><br>
+        </section>
+        <b><p style="font-size: 18px; text-align:center">Pest-Free Home Guaranteed</p></b>
+        <br>
+        <img src="2.png" alt="" style="float: left; margin-left: 2rem;">
+        <b><p style="margin-left: 20px; float: left; margin-top: 2rem;">Bed Bugs</p></b>
+
+        <img src="3.png" alt="" style="margin-top: 6rem; margin-left: -11rem; float: left;">
+        <b><p style="float: left; margin-top: 9rem; margin-left: -4rem;">Termites</p></b>
+
+        <img src="4.png" alt="" style="float: right; margin-right: 8rem;">
+        <b><p style="float:right; margin-right:-10rem; margin-top: 2rem;">Ticks</p></b>
+
+        <img src="5.png" alt="" style="float: right; margin-right: -5rem; margin-top: 7rem;">
+        <b><p style="float:right; margin-top:9rem; margin-right:-12rem">Mice & Rats</p></b>
+
+        <b><p style="text-align: center; margin-top:14rem">Not Sure What Pest You Have?</p></b>
+        <button style="width: 170px; height: 40px; margin-left: 4rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px;">Schedule Consultation</button>
+        <p style="float: left; margin-top: 4rem; padding: 1rem;">Need Help?</p>
+        <p style="float: right; margin-top: 4rem; padding: 1rem;">Call (877) 672 - 1686</p>
+    </div>

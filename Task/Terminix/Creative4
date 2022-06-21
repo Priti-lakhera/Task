@@ -1,0 +1,52 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 4</title>
+    <style>
+        .wrapper{
+            background:linear-gradient(90deg, cadetblue, gray);
+        border:thick solid lightblue;
+        width: 33rem;
+        height: 45rem;
+        margin-left: 25rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <p style="color: white; font-size:25px; text-align:center">Guaranteed Pest Protection</p>
+        <p style="font-size:18px; margin:0px 10px 20px 20px">Terminix® will identify entry points of pests, determine the most effective way to get them
+            out of your home and then customize a solution to keep them from coming back. If they do return, we will come back -- at no additional cost to you.*</p>
+        <button style="width: 200px; height: 40px; margin-left: 11rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px;">Explore Most-Selling Plans</button>
+        <p style="font-size: 18px; margin-left:1.5rem; margin-top:2rem">Our Comprehensive Coverage Includes:</p>
+        <ul>
+            <li>Bed Bugs</li>
+            <li>Mice</li>
+            <li>Cockroaches</li>
+            <li>Termites</li>
+            <li>And many more</li>
+        </ul>
+        
+        <b><p style="font-size: 18px; margin-left:1.5rem">Most Robust Warranty</p></b>
+        <p style="font-size: 18px; margin-left:1.5rem">The Terminix Promiseᵀᴹ means you can relax knowing we’ll worry about pests so you don’t have to. And if they come back between treatments, so will we – at no additional cost to you.**</p>
+        <button style="width: 170px; height: 40px; margin-left: 11rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px;">Explore Plans</button>        
+       <br><br>
+        <span style="font-size:200%; color:yellow; margin-left: 190px;">&starf;</span>
+        <span style="font-size:200%; color:yellow;">&starf;</span>
+        <span style="font-size:200%; color:yellow;">&starf;</span>
+        <span style="font-size:200%; color:yellow;">&starf;</span>
+        <span style="font-size:200%; color:yellow;">&starf;</span>
+        <p style="text-align: center; margin-top: -0rem; font-size: 15px;"><b>#1 Pest Control In The Market</b></p>
+        
+        <p style="width:93.9%; margin-left: -0.3rem; padding: 1rem; border:thick solid lightblue; background: white; margin-top:-1rem; float: left; padding-left: 1rem;" >
+            *Treatments and Covered Pests defined in your Plan. Limitations apply. See Plan for details.
+            <br> ** Within 30 days after an inspection or treatment you aren't totally satisfied, we will refund the applicable treatment or coverage charges, reimburse any prepaid services and cancel
+             your plan. Treatments and Covered Pests defined in your Plan. Limitations apply. See Plan for details.
+        </p>
+    </div>

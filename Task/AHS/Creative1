@@ -1,0 +1,39 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 1</title>
+    <style>
+        .wrapper{
+        background: lightskyblue;
+        width: 33rem;
+        height: 30rem;
+        margin-left: 25rem;
+        margin-top: 20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+    <u><p style="text-align: center; font-size: 30px; padding-top: 40px;">Best Home Warranty: Summer SALE</p></u>
+    <p style="padding: 20px; font-size:18px">Our plans cover parts of up to 23 appliances and systems, and if we can’t repair your covered item, we’ll
+        replace it. Cover the items that keep your home running smoothly and choose a plan that’s right for you.</p>
+    <button style="width: 130px; height: 40px; margin-left: 12rem; border-radius: 50px; border:none; background-color: lightblue; box-shadow: 3px 4px; ">New Offers</button>
+    <br>
+
+    <div style="background-color: lightblue;">
+    <p style="text-align:center; font-size: 20px; padding: 10px;">Nationwide Networks, Qualified Professionals</p>
+    <img src="1.png" style="margin-left: 10rem" alt="">
+    <p style="padding: 20px; font-size:18px; text-align:center">Submit a service request online 24/7. You can also contact us by phone. Weʼll assign a professional to diagnose the 
+        problem and offer a solution.</p>
+    <button style="border: none; border-radius:50px; height:40px; width:130px; margin-left:12rem; background-color: lightskyblue; box-shadow:3px 4px;">Explore Plans</button>
+    <br><br>
+    </div>
+
+    
+</body>
+</div>
+</html>

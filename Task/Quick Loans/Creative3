@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 3</title>
+    <style>
+        .wrapper{
+        background:linear-gradient(155deg,lightseagreen, white);
+        border:thick solid black;
+        width: 33rem;
+        height: 44.5rem;
+        margin-left: 25rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    
+    <div class="wrapper">
+        <h2 style=" color:aliceblue;text-align: center; padding: 1rem;">Unlock Your Exclusive Rates</h2>
+        <p style="font-size:18px; color: aliceblue; padding-left:2rem; padding-right: 1rem;">You may be able to get a lower rate so you can save money each month. Our fast, powerful,
+         and completely online way to get financing may help you to find the lowest payment possible.</p>
+        <button style="width: 190px; height: 40px; margin-left:11rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">Access Exclusive Packages</button>
+        <br><br>
+        <b><p style="font-size: 20px; text-align:center">Top-Rated Lender In America</p></b>
+        <img src="3.png" alt="" style="margin-left:1rem ;" >
+        <p style="margin-top: -2.8rem; margin-left:10rem">Shorten Your Mortgage Term</p>
+
+        <img src="4.png" alt="" style="margin-top: 2rem; height:70px; width:100px; margin-left: 1.5rem;">
+        <p style="margin-top: -2.8rem; margin-left:10rem">Get a Lower Payment</p>
+
+        <img src="5.png" alt="" style="margin-top:2rem; margin-left: 1rem;">
+        <p style="margin-top: -2.8rem; margin-left:10rem">Take Cash Out</p>
+        <br>
+        <button style="width: 190px; height: 40px; margin-left:6rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">View Plans</button>        
+        <p style="float: left; margin-top: 4.5rem; margin-left: 5px;">Need Help?</p>
+        <p style="float:right; margin-top: 4.5rem; margin-right: 5px;">Call (800) 251-9080</p>
+    </div>

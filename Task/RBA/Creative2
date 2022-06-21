@@ -1,0 +1,46 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 2</title>
+    <style>
+        @media(max-width:998px) {
+            html{
+                font-size: 100%;
+            }
+        }
+
+        .wrapper{
+        background:white    ;
+        border:thick solid rgb(56, 56, 110);
+        width: 35rem;
+        height: 43rem;
+        margin-left: 25rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    
+    <div class="wrapper">
+        <h2 style="text-align: center;">Beat The Heat With Windows That Help You Stay Cooler!</h2>
+        <p style="text-align: center; font-size:18px; padding:1rem">Our energy-efficient windows lose heat in Summer and help your home stay cooler, and help you save money by improving your home’s energy efficiency.
+            Our different glass options offer unique benefits for UV protection and help you lower your utility bills.</p>
+        <br>
+        <button style="width: 130px; height: 40px; margin-left:12rem; margin-top:-2rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">Summer Offers</button>
+        <br><br>
+        <b><p style="text-align: center;">Ready to Start Your Project?</p></b>
+        <img src="3.png" alt="" style="height:150px; width:160px;  margin-left: 11rem; margin-top:rem;">
+        
+        <p style="text-align: center;">Schedule a free in-home window and door consultation today.</p>
+        <button style="width: 130px; height: 40px; margin-top:-rem; margin-left:-17rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">Schedule Consultation</button>
+        <img src="4.png" alt="" style="height: 90px; width:90px; float: left; padding: 2rem; margin-top: 2rem; margin-left: 3rem;">
+        <img src="2.png" alt="" style="height: 70px; width:100px; float:left; margin-top: 5rem; margin-left: 1.5rem;">
+        <img src="5.png" alt="" style="height: 100px; width:100px; float: left; margin-top: 3.5rem; margin-left: 2rem;">
+    </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 4</title>
+    <style>
+         @media(max-width:998px) {
+            html{
+                font-size: 100%;
+            }
+        }
+
+        .wrapper{
+        background:lightgreen    ;
+        border:thick solid darkgreen;
+        width: 32rem;
+        height: 41rem;
+        margin-left: 23rem;
+        margin-top:20px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    
+    <div class="wrapper">
+        <h2 style="text-align: center; padding: 1rem;">Quality Windows, Affordable Prices</h2>
+        <p style="font-size:18px; padding-left:2rem; padding-right: 1rem;">Regardless of which window feature is your top priority, your Renewal by Andersen windows can make a difference in every instance. We offer industry-leading sizes,
+            and our innovative window solutions deliver virtually endless style options. </p>
+        <button style="width: 130px; height: 40px; margin-left:12rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">New Sale Offers</button>
+        <br><br>
+        <section style="background: linear-gradient(160deg, green, white);">
+        <b><p style="font-size: 18px; text-align: center; padding:1rem ">America’s #1 Replacement Windows</p></b>
+        </section><br>
+        <img src="7.png" alt="" style="height: 150px; width:150px; margin-left: 2.5rem;">
+        <img src="8.png" alt="" style="height: 150px; width:150px">
+        <img src="9.png" alt="" style="height: 150px; width:150px">
+        <b><p style="text-align: center;">We have sent you a special discount Offer</p></b><br>
+        <button style="width: 130px; height: 40px; margin-left:12rem; border-radius: 50px; border:none; background-color: mistyrose; box-shadow: 3px 4px; ">Check My Offer</button>        
+    </div>
+</body>
+</html>
+

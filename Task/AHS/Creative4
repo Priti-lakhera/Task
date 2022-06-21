@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative 4</title>
+    <style>
+        .wrapper{
+        background: white;
+        border: thick solid;
+        width: 33rem;
+        height: 39rem;
+        margin-left: 25rem;
+        margin-top:19px;
+        box-shadow:0 0 128px 0 rgba(0,0,0,0.1),
+               0 32px 64px -48px rgba(0,0,0,0.5);
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="wrapper" >
+        <p style="text-align: center; font-size: 30px;">Grab The Best Warranty Brand Deals</p>
+        <p style="text-align: center; font-size:18px; margin-left: 1rem; margin-right: 1rem;">AHS warranty covers up to 23 appliance repair costs without extensive plan options, nationwide availability, five decades of experience, and generous coverage gaps.<br><b> If we can’t repair your covered item, we’ll replace it.</b></p>
+        <button style="width: 130px; height: 40px; margin-left: 12rem; border-radius: 50px; border:none; background-color: cadetblue; box-shadow: 3px 4px; ">Summer Sale</button>
+        <br><br>
+        <b><p style="text-align: center;">Coverage Which People Rely On</p></b>
+        <img src="6.png" style="margin-left: 11rem; height: 180px; width: 180px;" alt>
+        <p style="text-align: center; font-size:18px; margin-left:1rem; margin-right: 1rem;">If you have an issue with your completed repair within 30 days of service, weʼll send a contractor back out for free.</p>
+        <button style="width: 130px; height: 40px; margin-left: 12rem; border-radius: 50px; border:none; background-color: cadetblue; box-shadow: 3px 4px; ">Explore Plans</button>
+    </div>
+</body>
+</html>
